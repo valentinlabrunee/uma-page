@@ -1,0 +1,91 @@
+/*
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+
+      font-family: 'Source Sans Pro', sans-serif;
+*/
+h1,h2{
+    font-size: 40px;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: #b70000;
+    margin-left: 30px;
+    margin-right: 70px;
+}
+p, nav{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 70px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+img{
+    width: 40%;
+    border-radius: 25px;
+    margin: 20px;
+    object-fit: cover;
+}
+div{
+    margin-left: 35px;
+}
+.icono{
+    width: 260px;
+    display: flex;
+    justify-content: flex-start;
+}
+*{
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    color: black;
+}
+.nav-start{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    position: relative;
+    top: -80px;
+}
+.nav-end{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.C1{
+    display: flex;
+}
+.iconos1 img{
+    width: 56px;
+    background-color: #b93e3e;
+}
+.C2Ps{
+    margin-top: 110px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.iconos1 img{
+    margin-left: 0px;
+}
+
+#i1{
+    padding: 10px;
+    border-radius: 25px;
+}
+#i2{
+    padding: 10px;
+    border-radius: 25px;
+}
+#i3{
+    padding: 10px;
+    border-radius: 25px;
+}
+.C3{
+    display: flex;
+    gap: 165px;
+}
