@@ -1,2 +1,0 @@
-# uma-page
-umita page
